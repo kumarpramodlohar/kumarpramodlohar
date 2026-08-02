@@ -1,6 +1,6 @@
 # Hi, I'm Pramod Lohar 👋
 
-Senior Software Engineer with 6.5+ years of experience building scalable backend and full-stack applications.
+Senior Software Engineer with 9+ years of experience building scalable backend and full-stack applications.
 
 ## Tech Stack
 
