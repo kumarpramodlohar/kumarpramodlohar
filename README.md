@@ -1,6 +1,6 @@
 # Hi, I'm Pramod Lohar 👋
 
-**Senior Software Engineer | Backend & Full-Stack Engineering | Generative AI**
+**Software Engineer | Backend & Full-Stack Engineering | Generative AI**
 
 Senior Software Engineer with 9+ years of experience building backend services, full-stack applications, and distributed systems. My core strengths are Java, Spring Boot, Go, React, and API development.
 
@@ -37,7 +37,7 @@ A full-stack portfolio project exploring document-grounded question answering us
 An offline-first edge platform built with Go, gRPC, SQLite, Pub/Sub, and Linux.
 
 *See the repository for implementation details and setup instructions.*
-
+- [Backend — GO](https://github.com/kumarpramodlohar/retailedge-proxy)
 ## 📚 Currently Learning
 
 - RAG evaluation and retrieval optimization
