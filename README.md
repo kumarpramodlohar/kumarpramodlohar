@@ -2,7 +2,7 @@
 
 **Software Engineer | Backend & Full-Stack Engineering | Generative AI**
 
-Senior Software Engineer with 9+ years of experience building backend services, full-stack applications, and distributed systems. My core strengths are Java, Spring Boot, Go, React, and API development.
+Software Engineer with 7.5+ years of experience building backend services, full-stack applications, and distributed systems. My core strengths are Java, Spring Boot, Go, React, and API development.
 
 I'm applying my software engineering experience to **Generative AI and RAG applications**, with a focus on retrieval quality, grounded answers, security, and reliable application design.
 
